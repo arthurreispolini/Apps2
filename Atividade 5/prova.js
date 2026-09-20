@@ -1,4 +1,5 @@
 // ## Questão 9
+
 import React, { useState } from 'react';
 import { View, Text, Button, StyleSheet } from 'react-native';
 
@@ -27,6 +28,7 @@ const styles = StyleSheet.create({
 
 
 // ## Questão 11
+
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
