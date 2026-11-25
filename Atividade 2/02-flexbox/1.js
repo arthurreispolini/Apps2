@@ -1,9 +1,9 @@
-import { StyleSheet } from 'react-native';
+// import { StyleSheet } from 'react-native';
 
-const s = StyleSheet.create({
-  linha: {
-    flexDirection: 'row',
-  },
-});
+// const s = StyleSheet.create({
+//   linha: {
+//     flexDirection: 'row',
+//   },
+// });
 
-export default s;
+// export default s;
